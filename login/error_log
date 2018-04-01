@@ -1,0 +1,230 @@
+[04-Dec-2017 11:34:44 UTC] PHP Fatal error:  Call to a member function fetchAll() on boolean in /home/nijsoladmin/public_html/nijsolsmp.com/includes/database-abstract.php on line 43
+[18-Jan-2018 11:07:55 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 11:08:02 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 11:21:28 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 11:40:33 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 11:40:37 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 11:40:39 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 11:45:19 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 11:55:08 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:18:05 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:18:14 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:18:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:18:19 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:18:36 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:18:53 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:27:20 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:45:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 12:50:19 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 13:22:34 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 13:23:18 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 13:23:27 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 13:28:10 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 13:29:07 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 13:31:45 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 13:35:56 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[18-Jan-2018 13:38:44 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 02:47:57 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 02:48:05 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 02:53:53 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:00:08 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:09:51 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:10:03 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:10:08 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:10:10 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:10:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:10:18 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:13:45 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:14:11 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:20:15 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:20:17 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:21:15 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:22:56 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:23:01 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:23:03 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:23:04 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:23:11 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:23:14 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:23:14 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:23:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:27:28 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:34:48 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:35:19 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:35:34 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:35:48 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:37:14 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:39:58 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:46:56 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:58:23 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 03:59:21 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 04:01:34 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 04:05:03 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 04:07:35 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 04:16:10 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 04:16:47 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 04:20:44 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:04:43 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:13:54 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:37:08 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:37:57 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:38:05 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:38:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:38:26 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:39:04 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:39:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:41:04 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:41:17 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 05:46:58 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:07:14 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:09:23 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:09:38 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:09:40 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:09:45 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:20:04 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:25:09 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:25:24 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:38:47 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:39:00 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:41:00 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:41:50 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 06:58:20 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:03:50 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:06:15 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:06:19 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:15:46 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:15:49 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:15:51 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:15:55 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:16:01 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:16:24 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:18:43 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:19:20 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/top.php on line 49
+[19-Jan-2018 07:19:38 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:23:22 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 07:40:13 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 08:03:17 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 08:03:31 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 08:03:43 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 08:03:55 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[19-Jan-2018 08:08:52 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 01:59:53 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:17:00 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:17:01 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:17:13 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:17:32 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:18:38 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:19:26 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:20:01 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:20:47 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:20:53 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:05 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:05 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:11 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:12 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:31 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:32 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:34 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:35 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:50 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:51 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:56 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:24:57 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:26:10 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:26:11 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:26:25 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:26:26 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:27:01 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:27:02 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:27:30 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:27:31 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:27:54 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:27:55 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:29:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:29:17 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:29:21 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 02:29:22 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:03:35 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/top.php on line 49
+[20-Jan-2018 03:04:51 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:04:57 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:04:59 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:05:00 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:05:25 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:05:28 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:05:53 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:06:02 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 03:06:05 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 04:18:06 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 04:18:13 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 05:05:08 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/top.php on line 49
+[20-Jan-2018 07:02:12 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 07:02:20 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 07:02:22 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 07:02:24 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 07:02:51 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 07:02:53 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 07:03:04 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 07:30:12 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/includes/common-function.php on line 53
+[20-Jan-2018 10:04:22 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:07:39 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:11:18 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:11:21 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:19:22 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:19:23 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:19:23 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:19:26 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:22:12 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:22:12 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:22:47 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:23:52 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:24:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:26:39 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:27:26 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:27:48 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:29:53 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:30:30 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:32:26 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:33:44 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:34:23 Etc/GMT] PHP Warning:  require_once(includes/general-includes.php): failed to open stream: No such file or directory in /home/nijsolsm/public_html/nijsolsmp/login/index.php on line 1
+[20-Jan-2018 10:34:23 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'includes/general-includes.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/nijsolsm/public_html/nijsolsmp/login/index.php on line 1
+[20-Jan-2018 10:34:40 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:35:08 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:35:49 Etc/GMT] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/nijsolsm/public_html/nijsolsmp/login/index.php on line 1
+[20-Jan-2018 10:35:49 Etc/GMT] PHP Warning:  require_once(http://pgs.nijsolsmp.com/includes/general-includes.php): failed to open stream: no suitable wrapper could be found in /home/nijsolsm/public_html/nijsolsmp/login/index.php on line 1
+[20-Jan-2018 10:35:49 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'http://pgs.nijsolsmp.com/includes/general-includes.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/nijsolsm/public_html/nijsolsmp/login/index.php on line 1
+[20-Jan-2018 10:40:18 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:40:35 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:40:53 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:41:20 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:41:38 Etc/GMT] PHP Fatal error:  Class 'Common_Nijsol_Class' not found in /home/nijsolsm/public_html/nijsolsmp/includes/general-includes.php on line 10
+[20-Jan-2018 10:44:53 Etc/GMT] PHP Fatal error:  Class 'Common_Nijsol_Class' not found in /home/nijsolsm/public_html/nijsolsmp/includes/general-includes.php on line 10
+[20-Jan-2018 10:49:52 Etc/GMT] PHP Fatal error:  Class 'Common_Nijsol_Class' not found in /home/nijsolsm/public_html/nijsolsmp/login/index.php on line 6
+[20-Jan-2018 10:55:16 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 10:55:37 Etc/GMT] PHP Fatal error:  Class 'Common_Nijsol_Class' not found in /home/nijsolsm/public_html/nijsolsmp/includes/general-includes.php on line 9
+[20-Jan-2018 10:59:29 Etc/GMT] PHP Fatal error:  Class 'Common_Nijsol_Class' not found in /home/nijsolsm/public_html/nijsolsmp/includes/general-includes.php on line 9
+[20-Jan-2018 10:59:49 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[20-Jan-2018 11:00:14 Etc/GMT] PHP Fatal error:  Call to undefined method Common_Nijsol_Class::Get_Session() in /home/nijsolsm/public_html/nijsolsmp/login/index.php on line 6
+[20-Jan-2018 11:00:28 Etc/GMT] PHP Fatal error:  Can't use function return value in write context in /home/nijsolsm/public_html/nijsolsmp/includes/common-function.php on line 53
+[06-Feb-2018 16:25:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[06-Feb-2018 16:25:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[06-Feb-2018 16:25:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[06-Feb-2018 16:25:52 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[06-Feb-2018 16:25:53 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[06-Feb-2018 16:26:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[06-Feb-2018 16:26:35 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 08:26:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 08:28:38 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 08:44:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 08:44:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 08:44:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 08:44:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 08:44:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 09:54:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 10:01:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 10:01:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 10:01:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 10:01:32 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 11:42:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 11:42:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 11:42:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 11:43:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
+[08-Feb-2018 11:43:15 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nijsolsm/public_html/nijsolsmp/includes/master_config.php on line 13
