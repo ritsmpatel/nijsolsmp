@@ -1,4 +1,5 @@
 <?php header("location:login/index.php")?>
+
 <!doctype html>
 <html>
 <head>
